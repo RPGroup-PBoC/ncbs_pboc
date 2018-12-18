@@ -74,7 +74,7 @@ def bar_plot (data, n_slices, dx = 1, dy = 1, z_max = 1, x_label = 'x',
         delta_z = data[:,y]
 
         ax.bar3d(x_pos, y_pos, z_pos, delta_x, delta_y, delta_z,
-                 color = colors[i_slice])
+                 color = colors[i_slice], edgecolor='none')
 
         i_slice = i_slice + 1;
 
