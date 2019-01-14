@@ -25,7 +25,12 @@
   description: This paper gives a modern description of the measured virus to bacterium ratio. Figure 2 gives the key data that led to our 10:1 ratio of viruses to microbes
   link: "http://www.rpdata.caltech.edu/courses/course_papers/Naturemicrobiology_Wigington_2016.pdf"
 
-
+- title: "One at a time, live tracking of NGF axonal transport using quantum dots"
+  author: Bianxiao Cui, et al.
+  journal: PNAS
+  year: 2007
+  description: This paper gives a flavor of how the dynamics of transport has been measured in neurons.  We will make a big deal out of this topic when discussing diffusive time scales
+  link: "http://www.rpdata.caltech.edu/courses/course_papers/PNAS_Cui_2007.pdf"
 
 # - title: "Models in Biology: Accurate Descriptions of Our Pathetic Thinking"
 #   author: Jeremy Gunawardena
