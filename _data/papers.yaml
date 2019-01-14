@@ -52,7 +52,12 @@
   year: 2014
   link: "https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-12-29"
 
-
+- title: "The quantitative and condition-dependent Escherichia coli proteome"
+  author: Alexander Schmidt et al.
+  journal: Nature Biotechnology
+  description: This paper proposes a very interesting method to take a census of E. coli's conent under different growth conditions.
+  year: 2016
+  link: "http://www.rpdata.caltech.edu/courses/course_papers/NatureBiotech_Schmidt_2016.pdf"
 
 # - title: "Models in Biology: Accurate Descriptions of Our Pathetic Thinking"
 #   author: Jeremy Gunawardena
