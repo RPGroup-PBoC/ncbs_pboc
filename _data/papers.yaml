@@ -38,6 +38,13 @@
   year: 2003
   link: "http://www.rpdata.caltech.edu/courses/course_papers/FEBS_Schatz_2003.pdf"
 
+- title: "Polymerases and the Replisome: Machines within Machines"
+  author: Tania A. Baker and Stephen P. Bell
+  journal: Cell
+  description: This paper discusses the incredible fidelity of the DNA polymerase by comparing it with a FedEx truck delivering packages along the road.
+  year: 1998
+  link: "https://www.cell.com/abstract/S0092-8674(00)80923-X"
+
 # - title: "Models in Biology: Accurate Descriptions of Our Pathetic Thinking"
 #   author: Jeremy Gunawardena
 #   journal: BMC Biology
