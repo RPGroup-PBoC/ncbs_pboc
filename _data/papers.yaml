@@ -32,6 +32,12 @@
   description: This paper gives a flavor of how the dynamics of transport has been measured in neurons.  We will make a big deal out of this topic when discussing diffusive time scales
   link: "http://www.rpdata.caltech.edu/courses/course_papers/PNAS_Cui_2007.pdf"
 
+- title: "The tragic matter"
+  author: G. Schatz
+  journal: FEBS
+  year: 2003
+  link: "http://www.rpdata.caltech.edu/courses/course_papers/FEBS_Schatz_2003.pdf"
+
 # - title: "Models in Biology: Accurate Descriptions of Our Pathetic Thinking"
 #   author: Jeremy Gunawardena
 #   journal: BMC Biology
