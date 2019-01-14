@@ -5,6 +5,15 @@
   description: This paper examines the distribution of biomass on planet Earth, challenging many of our preconceptions about biological numeracy.
   link: "http://rpdata.caltech.edu/publications/Bar-On_2018.pdf"
 
+- title: "Re-examination of the relationship between marine virus and microbial cell abundances"
+  author: Charles H. Wigington, et al.
+  journal: Nature Microbiology
+  year: 2016
+  description: This paper gives a modern description of the measured virus to bacterium ratio. Figure 2 gives the key data that led to our 10:1 ratio of viruses to microbes
+  link: "http://www.rpdata.caltech.edu/courses/course_papers/Naturemicrobiology_Wigington_2016.pdf"
+
+
+
 # - title: "Models in Biology: Accurate Descriptions of Our Pathetic Thinking"
 #   author: Jeremy Gunawardena
 #   journal: BMC Biology
