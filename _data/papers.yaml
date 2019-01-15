@@ -59,6 +59,11 @@
   year: 2016
   link: "http://www.rpdata.caltech.edu/courses/course_papers/NatureBiotech_Schmidt_2016.pdf"
 
+- title: "A Mathematician's Lament"
+  author: Paul Lockhart
+  year:  2009
+  link: "https://www.maa.org/external_archive/devlin/LockhartsLament.pdf"
+
 # - title: "Models in Biology: Accurate Descriptions of Our Pathetic Thinking"
 #   author: Jeremy Gunawardena
 #   journal: BMC Biology
@@ -81,8 +86,3 @@
 #   year: 2013
 #   journal: Nature Cell Biology
 #   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3789854/pdf/nihms508745.pdf
-#
-# - title: "A Mathematician's Lament"
-#   author: Paul Lockhart
-#   year:  2009
-#   link: "https://www.maa.org/external_archive/devlin/LockhartsLament.pdf"
