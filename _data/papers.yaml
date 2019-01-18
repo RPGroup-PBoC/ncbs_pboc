@@ -66,9 +66,17 @@
   link: "http://www.rpdata.caltech.edu/courses/course_papers/Nature_Savin_2011.pdf"
 
 - title: "The starring messenger"
-  author: Galileo Galilei.
+  author: Galileo Galilei
   year: 1610
   link: "https://people.rit.edu/wlrgsh/Galileo.pdf"
+
+- title: "Physical limits to magnetogenetics"
+  author: Markus Meister
+  journal: eLife
+  description: Harsh critique of high profile papers that don't obey the laws of physics
+  year: 2016
+  link: "https://elifesciences.org/articles/17210"
+
 
 # - title: "Models in Biology: Accurate Descriptions of Our Pathetic Thinking"
 #   author: Jeremy Gunawardena
